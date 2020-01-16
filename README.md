@@ -12,7 +12,7 @@ osacript capture-lapse.scpt
 ```
 
 ## License
-[MIT License] (https://opensource.org/licenses/MIT)
+[MIT License](https://opensource.org/licenses/MIT)
 
 ## Credits
 Code expanded from a short comment on the [MacWorld forum](http://hints.macworld.com/article.php?story=20030115080027106) in 2003 by Clark Goble (https://twitter.com/clarkgoble). Coincidentally, the author and Mr. Goble debated post-structuralism on yahoo groups fifteen-years prior to utilising Mr. Goble’s comment for the creation of this script. In remembrance of Clark Goble.
